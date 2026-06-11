@@ -53,9 +53,14 @@ export default async function DetailPage({ params }: PageProps) {
             <span className="text-lg">←</span>
             <span className="font-bold text-sm md:text-base">목록으로 돌아가기</span>
           </Link>
-          <span className="text-xs bg-slate-105 text-slate-500 px-2.5 py-1 rounded-full font-bold border border-slate-200">
-            {item.category} 안내
-          </span>
+          <div className="flex items-center space-x-4">
+            <Link href="/blog" className="text-sm font-semibold text-slate-600 hover:text-sky-600 transition-colors">
+              블로그
+            </Link>
+            <span className="text-xs bg-slate-105 text-slate-500 px-2.5 py-1 rounded-full font-bold border border-slate-200">
+              {item.category} 안내
+            </span>
+          </div>
         </div>
       </nav>
 

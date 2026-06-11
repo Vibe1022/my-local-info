@@ -54,13 +54,18 @@ export default function Home() {
       {/* 2. 상단 고정 헤더 역할 (블로그 프로필/카테고리 네비게이션 스타일) */}
       <nav className="bg-white border-b border-slate-200 sticky top-0 z-50 shadow-[0_2px_10px_rgba(0,0,0,0.03)]">
         <div className="max-w-4xl mx-auto px-5 py-4 flex items-center justify-between">
-          <div className="flex items-center space-x-2">
+          <Link href="/" className="flex items-center space-x-2 text-slate-900 hover:text-sky-600 transition-colors">
             <span className="text-xl">🏡</span>
             <span className="font-bold text-slate-900 text-sm md:text-base">성남시 생활정보 통합보드</span>
-          </div>
-          <div className="flex items-center space-x-1.5 text-xs font-bold">
-            <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-            <span className="text-slate-500">매일 자동 업데이트 중</span>
+          </Link>
+          <div className="flex items-center space-x-4">
+            <Link href="/blog" className="text-sm font-semibold text-slate-600 hover:text-sky-600 transition-colors">
+              블로그
+            </Link>
+            <div className="flex items-center space-x-1.5 text-xs font-bold">
+              <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
+              <span className="text-slate-500">매일 자동 업데이트 중</span>
+            </div>
           </div>
         </div>
       </nav>
