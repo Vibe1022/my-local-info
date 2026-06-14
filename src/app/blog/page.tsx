@@ -28,7 +28,7 @@ export default function BlogListPage() {
         <div className="max-w-4xl mx-auto px-5 py-4 flex items-center justify-between">
           <Link href="/" className="flex items-center space-x-2 text-slate-700 hover:text-sky-655 transition-colors">
             <span className="text-xl">🏡</span>
-            <span className="font-bold text-slate-900 text-sm md:text-base">성남시 생활정보 통합보드</span>
+            <span className="font-bold text-slate-900 text-sm md:text-base">강동구 생활정보 통합보드</span>
           </Link>
           <div className="flex items-center space-x-4">
             <Link href="/blog" className="text-sm font-semibold text-sky-600 border-b-2 border-sky-500 pb-1">

@@ -57,7 +57,7 @@ export default async function DetailPage({ params }: PageProps) {
             <Link href="/blog" className="text-sm font-semibold text-slate-600 hover:text-sky-600 transition-colors">
               블로그
             </Link>
-            <span className="text-xs bg-slate-105 text-slate-500 px-2.5 py-1 rounded-full font-bold border border-slate-200">
+            <span className="text-xs bg-slate-100 text-slate-500 px-2.5 py-1 rounded-full font-bold border border-slate-200">
               {item.category} 안내
             </span>
           </div>

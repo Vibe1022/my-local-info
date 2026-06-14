@@ -40,7 +40,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-white/10 opacity-30 pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle, #fff 10%, transparent 11%)', backgroundSize: '12px 12px' }} />
         <div className="max-w-4xl mx-auto px-5 relative z-10 space-y-3">
           <span className="inline-block bg-white/20 backdrop-blur-sm text-white text-xs font-bold px-3.5 py-1 rounded-full uppercase tracking-wider">
-            성남시 알림방 📢
+            강동구 알림방 📢
           </span>
           <h2 className="text-3xl md:text-5xl font-extrabold text-white tracking-tight drop-shadow-sm">
             우리 동네 소식통
@@ -56,7 +56,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto px-5 py-4 flex items-center justify-between">
           <Link href="/" className="flex items-center space-x-2 text-slate-900 hover:text-sky-600 transition-colors">
             <span className="text-xl">🏡</span>
-            <span className="font-bold text-slate-900 text-sm md:text-base">성남시 생활정보 통합보드</span>
+            <span className="font-bold text-slate-900 text-sm md:text-base">강동구 생활정보 통합보드</span>
           </Link>
           <div className="flex items-center space-x-4">
             <Link href="/blog" className="text-sm font-semibold text-slate-600 hover:text-sky-600 transition-colors">

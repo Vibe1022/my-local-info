@@ -37,7 +37,7 @@ async function main() {
 
   // 1단계: 공공데이터포털 API에서 데이터 가져오기
   console.log("공공데이터 API에서 데이터를 가져오는 중...");
-  const publicDataUrl = 'https://api.odcloud.kr/api/gov24/v3/serviceList?page=1&perPage=20&returnType=JSON';
+  const publicDataUrl = 'https://api.odcloud.kr/api/gov24/v3/serviceList?page=1&perPage=100&returnType=JSON';
   
   let apiData;
   try {
@@ -65,21 +65,21 @@ async function main() {
   }
 
   // 필터링 적용
-  // 1. 서비스명, 서비스목적요약, 지원대상, 소관기관명 중 "성남" 포함 항목 필터링
+  // 1. 서비스명, 서비스목적요약, 지원대상, 소관기관명 중 "강동" 포함 항목 필터링
   let filtered = apiData.filter(item => 
-    (item.서비스명 && item.서비스명.includes("성남")) ||
-    (item.서비스목적요약 && item.서비스목적요약.includes("성남")) ||
-    (item.지원대상 && item.지원대상.includes("성남")) ||
-    (item.소관기관명 && item.소관기관명.includes("성남"))
+    (item.서비스명 && item.서비스명.includes("강동")) ||
+    (item.서비스목적요약 && item.서비스목적요약.includes("강동")) ||
+    (item.지원대상 && item.지원대상.includes("강동")) ||
+    (item.소관기관명 && item.소관기관명.includes("강동"))
   );
 
-  // 2. "성남"이 없으면 "경기" 포함 항목 필터링
+  // 2. "강동"이 없으면 "서울" 포함 항목 필터링
   if (filtered.length === 0) {
     filtered = apiData.filter(item => 
-      (item.서비스명 && item.서비스명.includes("경기")) ||
-      (item.서비스목적요약 && item.서비스목적요약.includes("경기")) ||
-      (item.지원대상 && item.지원대상.includes("경기")) ||
-      (item.소관기관명 && item.소관기관명.includes("경기"))
+      (item.서비스명 && item.서비스명.includes("서울")) ||
+      (item.서비스목적요약 && item.서비스목적요약.includes("서울")) ||
+      (item.지원대상 && item.지원대상.includes("서울")) ||
+      (item.소관기관명 && item.소관기관명.includes("서울"))
     );
   }
 
