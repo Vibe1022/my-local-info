@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12",
+  "lastUpdated": "2026-07-13",
   "items": [
     {
       "id": "1",
@@ -308,6 +308,17 @@
       "target": "어촌계장 등 어촌지도자",
       "summary": "어촌지도자를 대상으로 지도자 양성을 위한 무상교육 프로그램 제공",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000076"
+    },
+    {
+      "id": "29",
+      "name": "천일염포장재지원",
+      "category": "혜택",
+      "startDate": "2026-07-13",
+      "endDate": "상시",
+      "location": "시·군·구청",
+      "target": "지방자치단체, 공기업, 천일염 영농(어)조합법인, 농(어)업회사법인, 농업협동조합, 수산업협동조합, 천일염관련 협동조합, 천일염 생산자(개인 및 법인)",
+      "summary": "천일염 생산자, 협동조합 등을 대상으로 천일염포장재를 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000077"
     }
   ]
 }
