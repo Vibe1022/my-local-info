@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15",
+  "lastUpdated": "2026-07-16",
   "items": [
     {
       "id": "1",
@@ -341,6 +341,17 @@
       "target": "어업인, 생산자단체 등",
       "summary": "어업인 및 생산자단체 등에게 지게차, 파렛트, 어상자 등 물류기기 임차·구매비용 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000082"
+    },
+    {
+      "id": "32",
+      "name": "항로표지 전문교육 지원",
+      "category": "혜택",
+      "startDate": "2026-07-16",
+      "endDate": "상시",
+      "location": "해양수산부",
+      "target": "한국항로표지기술원",
+      "summary": "항로표지 관련 종사자 등에게 전문 교육·훈련 프로그램 제공",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000085"
     }
   ]
 }
