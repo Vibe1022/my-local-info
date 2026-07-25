@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25",
+  "lastUpdated": "2026-07-26",
   "items": [
     {
       "id": "1",
@@ -451,6 +451,17 @@
       "target": "낚시터업자, 낚시어선업자(선원 포함)",
       "summary": "낚시 관련 종사자 등에게 낚시어선, 낚시터 전문교육 프로그램을 제공합니다.",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000118"
+    },
+    {
+      "id": "42",
+      "name": "자율관리어업 우수 공동체 육성사업비",
+      "category": "혜택",
+      "startDate": "2026-07-26",
+      "endDate": "상시",
+      "location": "시·군·구청",
+      "target": "자율관리어업공동체",
+      "summary": "자율관리어업공동체의 실적 평가에 따라 육성사업비 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000120"
     }
   ]
 }
