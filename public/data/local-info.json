@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26",
+  "lastUpdated": "2026-07-27",
   "items": [
     {
       "id": "1",
@@ -462,6 +462,17 @@
       "target": "자율관리어업공동체",
       "summary": "자율관리어업공동체의 실적 평가에 따라 육성사업비 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000120"
+    },
+    {
+      "id": "43",
+      "name": "양식장 친환경에너지 보급",
+      "category": "혜택",
+      "startDate": "2026-07-27",
+      "endDate": "상시",
+      "location": "시·군·구청",
+      "target": "어업인, 어업법인, 수산관련 생산자단체 및 기르는 어업을 경영하거나 경영하고자 하는 자",
+      "summary": "어업인 및 수산관련 생산자단체에 에너지절감시설(히트펌프)을 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000126"
     }
   ]
 }
