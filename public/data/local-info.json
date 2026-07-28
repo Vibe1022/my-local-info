@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28",
+  "lastUpdated": "2026-07-29",
   "items": [
     {
       "id": "1",
@@ -484,6 +484,17 @@
       "target": "수산물 수출 관련 개인 또는 단체",
       "summary": "수산물 수출 관련 개인 또는 단체에게 국내 공동물류센터 이용 경비 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000128"
+    },
+    {
+      "id": "45",
+      "name": "해외 공동물류센터 이용 지원",
+      "category": "혜택",
+      "startDate": "2026-07-29",
+      "endDate": "상시",
+      "location": "해양수산부",
+      "target": "수산물 수출 관련 개인 또는 단체",
+      "summary": "수산물수출 관련 개인 또는 단체에게 냉동창고, 운송료 등의 일부 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000129"
     }
   ]
 }
