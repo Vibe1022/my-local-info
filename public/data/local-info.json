@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30",
+  "lastUpdated": "2026-07-31",
   "items": [
     {
       "id": "1",
@@ -506,6 +506,17 @@
       "target": "수산물 수출 관련 개인 또는 단체",
       "summary": "수산물 수출 관련 개인 또는 단체에게 환변동 등 리스크에 대한 소요 경비 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000130"
+    },
+    {
+      "id": "47",
+      "name": "수산식품 선도조직 육성",
+      "category": "혜택",
+      "startDate": "2026-07-31",
+      "endDate": "상시",
+      "location": "한국농수산식품유통공사",
+      "target": "수산물수출 관련 개인 또는 단체",
+      "summary": "수산식품 품목별 선도조직 구성 및 운영 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000133"
     }
   ]
 }
