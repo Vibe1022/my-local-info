@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31",
+  "lastUpdated": "2026-08-01",
   "items": [
     {
       "id": "1",
@@ -517,6 +517,17 @@
       "target": "수산물수출 관련 개인 또는 단체",
       "summary": "수산식품 품목별 선도조직 구성 및 운영 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000133"
+    },
+    {
+      "id": "48",
+      "name": "수산식품 유망상품화",
+      "category": "혜택",
+      "startDate": "2026-08-01",
+      "endDate": "상시",
+      "location": "해양수산부",
+      "target": "수산물 수출 관련 개인 또는 단체",
+      "summary": "수산물 수출 관련 개인 또는 단체에게 유망상품 개발 및 마케팅 등에 필요한 경비 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000135"
     }
   ]
 }
