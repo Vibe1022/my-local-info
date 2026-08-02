@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02",
+  "lastUpdated": "2026-08-03",
   "items": [
     {
       "id": "1",
@@ -539,6 +539,17 @@
       "target": "수산물 수출 관련 개인 또는 단체",
       "summary": "글로벌 수산식품 수출 기업 육성 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000136"
+    },
+    {
+      "id": "50",
+      "name": "수산식품 국제인증 지원",
+      "category": "혜택",
+      "startDate": "2026-08-03",
+      "endDate": "상시",
+      "location": "해양수산부",
+      "target": "수산물 수출 관련 개인 또는 단체",
+      "summary": "수산물수출 관련 개인 또는 단체에게 할랄, 코셔 등 국제인증 취득에 소요되는 경비 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000137"
     }
   ]
 }
