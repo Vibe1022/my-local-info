@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04",
+  "lastUpdated": "2026-08-05",
   "items": [
     {
       "id": "1",
@@ -561,6 +561,17 @@
       "target": "수산물 수출 관련 개인 또는 단체",
       "summary": "수산식품 해외 현지 진출 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000138"
+    },
+    {
+      "id": "52",
+      "name": "국제수산식품박람회",
+      "category": "혜택",
+      "startDate": "2026-08-05",
+      "endDate": "상시",
+      "location": "해양수산부",
+      "target": "수산물 수출 관련 개인 또는 단체",
+      "summary": "수산물수출 관련 개인 또는 단체에게 박람회 참가 및 한국관 운영 등에 필요한 경비 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000139"
     }
   ]
 }
