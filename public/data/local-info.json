@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06",
+  "lastUpdated": "2026-08-07",
   "items": [
     {
       "id": "1",
@@ -583,6 +583,17 @@
       "target": "수산식품을 가공생산하는 개인 또는 단체",
       "summary": "수산식품 가공 개인 또는 단체에게 품질관리 및 생산성 제고를 위한 설비 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000143"
+    },
+    {
+      "id": "54",
+      "name": "원양어선원 해외묘지 관리 및 국내이장 지원",
+      "category": "혜택",
+      "startDate": "2026-08-07",
+      "endDate": "상시",
+      "location": "한국원양산업협회",
+      "target": "해외선원묘지",
+      "summary": "원양종사자의 유족들을 위해 해외선원묘지의 개보수 및 국내이장 등을 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000153"
     }
   ]
 }
