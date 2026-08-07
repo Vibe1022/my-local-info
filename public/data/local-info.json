@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07",
+  "lastUpdated": "2026-08-08",
   "items": [
     {
       "id": "1",
@@ -594,6 +594,17 @@
       "target": "해외선원묘지",
       "summary": "원양종사자의 유족들을 위해 해외선원묘지의 개보수 및 국내이장 등을 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000153"
+    },
+    {
+      "id": "55",
+      "name": "러시아감독관 승선선박 경비 지원",
+      "category": "혜택",
+      "startDate": "2026-08-08",
+      "endDate": "상시",
+      "location": "수협중앙회 수산경제연구원",
+      "target": "한·러 어업협상시 러시아 수역에 입어하는 오징어채낚기 어선 중 감독관 승선 선박",
+      "summary": "오징어채낚기 등의 어선에 러시아감독관 승선에 따른 경비 일부 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000154"
     }
   ]
 }
