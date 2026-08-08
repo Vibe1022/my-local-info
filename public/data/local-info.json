@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08",
+  "lastUpdated": "2026-08-09",
   "items": [
     {
       "id": "1",
@@ -605,6 +605,17 @@
       "target": "한·러 어업협상시 러시아 수역에 입어하는 오징어채낚기 어선 중 감독관 승선 선박",
       "summary": "오징어채낚기 등의 어선에 러시아감독관 승선에 따른 경비 일부 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000154"
+    },
+    {
+      "id": "56",
+      "name": "수산장비 임대",
+      "category": "혜택",
+      "startDate": "2026-08-09",
+      "endDate": "상시",
+      "location": "시·군·구청",
+      "target": "어업경영체 등록을 한 어업생산자(어업인·영어조합법인) 및 수협(수협어업권이 있는 경우) 등",
+      "summary": "사용횟수가 적은 고가의 수산장비를 국가가 구입하여 어업인에게 임대",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000157"
     }
   ]
 }
