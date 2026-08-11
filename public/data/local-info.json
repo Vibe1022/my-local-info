@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11",
+  "lastUpdated": "2026-08-12",
   "items": [
     {
       "id": "1",
@@ -638,6 +638,17 @@
       "target": "수산물 수출 관련 개인 또는 단체",
       "summary": "수산식품 무역상담회 참가 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000164"
+    },
+    {
+      "id": "59",
+      "name": "수산물통합마케팅",
+      "category": "혜택",
+      "startDate": "2026-08-12",
+      "endDate": "상시",
+      "location": "해양수산부",
+      "target": "수산물 수출 관련 개인 또는 단체",
+      "summary": "한국 수산식품 해외 마케팅 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000165"
     }
   ]
 }
