@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "items": [
     {
       "id": "1",
@@ -649,6 +649,17 @@
       "target": "수산물 수출 관련 개인 또는 단체",
       "summary": "한국 수산식품 해외 마케팅 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000165"
+    },
+    {
+      "id": "60",
+      "name": "이동수리소 운영",
+      "category": "혜택",
+      "startDate": "2026-08-13",
+      "endDate": "상시",
+      "location": "시·군·구청",
+      "target": "도서ㆍ벽지(내수면 포함)등 육상의 수리업체와 멀리 떨어져 있어 어업용 기자재의 정기점검ㆍ수리 등이 어려운 어촌지역 어업인",
+      "summary": "도서벽지 어업인 등을 대상으로 1인당 연간 40만원 이내 어업용 기자재 수리비용 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000166"
     }
   ]
 }
