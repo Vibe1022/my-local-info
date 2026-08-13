@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-14",
   "items": [
     {
       "id": "1",
@@ -660,6 +660,17 @@
       "target": "도서ㆍ벽지(내수면 포함)등 육상의 수리업체와 멀리 떨어져 있어 어업용 기자재의 정기점검ㆍ수리 등이 어려운 어촌지역 어업인",
       "summary": "도서벽지 어업인 등을 대상으로 1인당 연간 40만원 이내 어업용 기자재 수리비용 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000166"
+    },
+    {
+      "id": "61",
+      "name": "해외진출 및 협상전문관 지원",
+      "category": "혜택",
+      "startDate": "2026-08-14",
+      "endDate": "상시",
+      "location": "해양수산부",
+      "target": "한국원양산업협회 산하 해외수산협력센터 국제협상전문관",
+      "summary": "국제수산협상 전문관을 대상으로 전문인력 육성 프로그램 제공",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000168"
     }
   ]
 }
