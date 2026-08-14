@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "items": [
     {
       "id": "1",
@@ -671,6 +671,17 @@
       "target": "한국원양산업협회 산하 해외수산협력센터 국제협상전문관",
       "summary": "국제수산협상 전문관을 대상으로 전문인력 육성 프로그램 제공",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000168"
+    },
+    {
+      "id": "62",
+      "name": "원양산업 통계조사",
+      "category": "혜택",
+      "startDate": "2026-08-15",
+      "endDate": "상시",
+      "location": "한국원양산업협회",
+      "target": "한국원양산업협회 소속 해외수산협력센터",
+      "summary": "원양산업 종사자, 기업 등을 대상으로 현황, 경영실태 등에 대한 종합적인 통계조사를 지원하여 원양산업 정책의 기초자료로 활용합니다.",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000173"
     }
   ]
 }
