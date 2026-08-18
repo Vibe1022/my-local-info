@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18",
+  "lastUpdated": "2026-08-19",
   "items": [
     {
       "id": "1",
@@ -715,6 +715,17 @@
       "target": "조건불리지역(도서 및 접경지역)에 거주하는 어업인(어업경영체 등록)",
       "summary": "조건이 불리한 지역에서 어업을 경영하는 어가 대상으로 소득 보전 (어가당 연간 80만원)",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000191"
+    },
+    {
+      "id": "66",
+      "name": "수산업경영인육성사업",
+      "category": "혜택",
+      "startDate": "2026-08-19",
+      "endDate": "상시",
+      "location": "각 시도 수산사무소 등",
+      "target": "시도에서 수산업경영인으로 선정한 사람",
+      "summary": "수산경영인으로 선정된 자에게 최대 5억원 융자지원 및 이자 일부 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000192"
     }
   ]
 }
