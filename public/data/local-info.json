@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19",
+  "lastUpdated": "2026-08-20",
   "items": [
     {
       "id": "1",
@@ -726,6 +726,17 @@
       "target": "시도에서 수산업경영인으로 선정한 사람",
       "summary": "수산경영인으로 선정된 자에게 최대 5억원 융자지원 및 이자 일부 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000192"
+    },
+    {
+      "id": "67",
+      "name": "e-Nav 선박단말기 구매비용 지원",
+      "category": "혜택",
+      "startDate": "2026-08-20",
+      "endDate": "상시",
+      "location": "한국해양교통안전공단",
+      "target": "어선(선령 및 톤수제한 없음, 원양/내수면 종사 어선 제외) 및 선박법에 따라 등록된 비어선(선령 및 톤수제한 없음)",
+      "summary": "어선 및 비어선이 사용할 수 있는 지능형 해상교통정보서비스 단말기 구매비용 일부 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000193"
     }
   ]
 }
