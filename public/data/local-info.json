@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25",
+  "lastUpdated": "2026-08-26",
   "items": [
     {
       "id": "1",
@@ -792,6 +792,17 @@
       "target": "통일부 장관의 보호결정을 받은 북한이탈주민",
       "summary": "북한이탈주민에게 정착금 지원(세대별 차등지급)",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/125000000014"
+    },
+    {
+      "id": "73",
+      "name": "북한이탈주민 정착금 지원(가산금)",
+      "category": "혜택",
+      "startDate": "2026-08-26",
+      "endDate": "상시",
+      "location": "남북하나재단 교육지원부",
+      "target": "북한이탈주민의 보호 및 정착 지원에 관한 법률 제8조 제1항에 따른 통일부 장관의 보호 결정을 받은 북한이탈주민",
+      "summary": "일정조건에 해당하는 북한이탈주민에게 가산금 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/125000000015"
     }
   ]
 }
