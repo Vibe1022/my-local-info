@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02",
+  "lastUpdated": "2026-09-03",
   "items": [
     {
       "id": "1",
@@ -869,6 +869,17 @@
       "target": "소년원 출원생, 보호관찰 대상자 등 소외계층 청소년",
       "summary": "소외계층 청소년에게 생활공간을 제공하여 무료숙식, 대학진학 등 사회정착 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/127000000037"
+    },
+    {
+      "id": "80",
+      "name": "범죄 피해 구조금 지급",
+      "category": "혜택",
+      "startDate": "2026-09-03",
+      "endDate": "상시",
+      "location": "검찰청 피해자지원실",
+      "target": "○ 타인의 범죄행위로 피해를 당한 사람과 그 배우자, 직계친족, 형제자매 등",
+      "summary": "범죄피해자 및 가족 등에게 상담 및 의료, 구조금, 주거지원 등의 구조방안 제공",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/128000000001"
     }
   ]
 }
