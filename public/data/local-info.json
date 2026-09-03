@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03",
+  "lastUpdated": "2026-09-04",
   "items": [
     {
       "id": "1",
@@ -880,6 +880,17 @@
       "target": "○ 타인의 범죄행위로 피해를 당한 사람과 그 배우자, 직계친족, 형제자매 등",
       "summary": "범죄피해자 및 가족 등에게 상담 및 의료, 구조금, 주거지원 등의 구조방안 제공",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/128000000001"
+    },
+    {
+      "id": "81",
+      "name": "이전비 지원",
+      "category": "혜택",
+      "startDate": "2026-09-04",
+      "endDate": "상시",
+      "location": "검찰청 피해자지원실",
+      "target": "범죄피해자나 중대범죄 신고자 또는 그 친족 등",
+      "summary": "범죄피해자 혹은 신고자 등이 보복우려를 피해 이전할 경우 이사비용을 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/128000000002"
     }
   ]
 }
