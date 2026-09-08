@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08",
+  "lastUpdated": "2026-09-09",
   "items": [
     {
       "id": "1",
@@ -935,6 +935,17 @@
       "target": "장병, 군무원, 일반 국민",
       "summary": "병역명문가에 대해 기념품 전달, 주요행사 초청, 시설 이용 시 우대 등의 서비스 제공",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/129000000009"
+    },
+    {
+      "id": "86",
+      "name": "전역예정군인 재취업 지원",
+      "category": "혜택",
+      "startDate": "2026-09-09",
+      "endDate": "상시",
+      "location": "국방전직교육원 각 사업부서",
+      "target": "전역예정장병",
+      "summary": "전역예정장병에게 전직상담 및 교육, 취업 등에 대한 서비스 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/129000000013"
     }
   ]
 }
