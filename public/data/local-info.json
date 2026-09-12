@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12",
+  "lastUpdated": "2026-09-13",
   "items": [
     {
       "id": "1",
@@ -968,6 +968,17 @@
       "target": "공로자 본인 또는 유족(배우자 및 직계존비속)",
       "summary": "공로금 지급",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/129000000014"
+    },
+    {
+      "id": "89",
+      "name": "전역예정장병 취업활동지원",
+      "category": "혜택",
+      "startDate": "2026-09-13",
+      "endDate": "상시",
+      "location": "국방부",
+      "target": "전역예정장병",
+      "summary": "장기간 사회와 단절된 생활로 사회적응 및 취업준비가 필요한 전역예정장병의 취업활동 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/129000000015"
     }
   ]
 }
