@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13",
+  "lastUpdated": "2026-09-15",
   "items": [
     {
       "id": "1",
@@ -979,6 +979,17 @@
       "target": "전역예정장병",
       "summary": "장기간 사회와 단절된 생활로 사회적응 및 취업준비가 필요한 전역예정장병의 취업활동 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/129000000015"
+    },
+    {
+      "id": "90",
+      "name": "군무원 채용시험 응시수수료 면제",
+      "category": "혜택",
+      "startDate": "2026-09-15",
+      "endDate": "상시",
+      "location": "국방부",
+      "target": "○ 「국민기초생활 보장법」에 따른 수급자 또는 차상위계층, 「한부모 가족지원법」에 따른 지원대상자, 「장애인연금법」에 따른 수급자, 2명 이상의 미성년 자녀가 있는 사람",
+      "summary": "응시 수수료 면제 대상 확대",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/129000000032"
     }
   ]
 }
