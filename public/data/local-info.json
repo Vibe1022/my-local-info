@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30",
+  "lastUpdated": "2026-10-01",
   "items": [
     {
       "id": "1",
@@ -1133,6 +1133,17 @@
       "target": "국내 체류 외국인",
       "summary": "국내 체류 외국인에게 법규에 대한 상담 및 기초질서, 가정폭력, 학교폭력 등 범죄예방 교육 프로그램을 제공합니다.",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/132000000001"
+    },
+    {
+      "id": "104",
+      "name": "다문화 가족 및 국내체류 외국인 대상 운전면허교실 운영 지원",
+      "category": "혜택",
+      "startDate": "2026-10-01",
+      "endDate": "상시",
+      "location": "경찰청",
+      "target": "이주여성, 외국인 근로자 중심으로 국내 체류 외국인 중 실질적인 사회 정착지원이 필요한 대상",
+      "summary": "다문화 가족 및 국내체류 외국인 대상으로 운전면허교실 운영 지원",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/132000000002"
     }
   ]
 }
