@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01",
+  "lastUpdated": "2026-10-03",
   "items": [
     {
       "id": "1",
@@ -1144,6 +1144,17 @@
       "target": "이주여성, 외국인 근로자 중심으로 국내 체류 외국인 중 실질적인 사회 정착지원이 필요한 대상",
       "summary": "다문화 가족 및 국내체류 외국인 대상으로 운전면허교실 운영 지원",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/132000000002"
+    },
+    {
+      "id": "105",
+      "name": "외국인 피해자 지원제도 안내·연계 서비스",
+      "category": "혜택",
+      "startDate": "2026-10-03",
+      "endDate": "상시",
+      "location": "경찰청",
+      "target": "국내 체류 외국인",
+      "summary": "국내 체류 외국인을 대상으로 전국 약 394개 도움센터를 통해 법률 지원 및 피해 구조 서비스를 안내하고 연계합니다.",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/132000000003"
     }
   ]
 }
