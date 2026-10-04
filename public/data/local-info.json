@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03",
+  "lastUpdated": "2026-10-04",
   "items": [
     {
       "id": "1",
@@ -1155,6 +1155,17 @@
       "target": "국내 체류 외국인",
       "summary": "국내 체류 외국인을 대상으로 전국 약 394개 도움센터를 통해 법률 지원 및 피해 구조 서비스를 안내하고 연계합니다.",
       "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/132000000003"
+    },
+    {
+      "id": "106",
+      "name": "운전면허 적성검사 간소화 서비스 제공",
+      "category": "혜택",
+      "startDate": "2026-10-04",
+      "endDate": "상시",
+      "location": "도로교통공단",
+      "target": "○ 1종 보통 운전면허 적성검사 대상",
+      "summary": "조건에 부합하는 1종보통 운전면허 적성검사 대상자에게 신체검사 수수료 감면 제공",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/132000000006"
     }
   ]
 }
